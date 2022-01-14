@@ -1,0 +1,17 @@
+#position {
+  width: 700px;
+  height: 700px;
+  border: 1px solid yellow;
+  background-color: aqua;
+  position: relative;
+}
+
+.div {
+  border: 1px solid blue;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  left: 30px;
+}
